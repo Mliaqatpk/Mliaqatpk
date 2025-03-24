@@ -13,7 +13,7 @@
   <br/>
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipen006&theme=algolia" alt="dipen006" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mliaqatpk006&theme=algolia" alt="MliaqatPk" /></p>
 
 
 <img align='right' src="https://media.giphy.com/media/wwgamp8bOsx8byvKTi/giphy.gif" width="300">
